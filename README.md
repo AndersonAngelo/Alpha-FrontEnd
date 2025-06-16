@@ -9,7 +9,7 @@ Sistema de gerenciamento de produtos, com backend em .NET Core e frontend em Vue
 ### Backend
 - ASP.NET Core Web API
 - Entity Framework Core
-- SQL Server
+- MySQL
 
 ### Frontend
 - Vue 3 + Vite
@@ -23,7 +23,7 @@ Sistema de gerenciamento de produtos, com backend em .NET Core e frontend em Vue
 
 - .NET SDK 7.0 ou superior
 - Node.js 18+
-- SQL Server
+- MySQL
 - VS Code (opcional, mas recomendado)
 
 ---

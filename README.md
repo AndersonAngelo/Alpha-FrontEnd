@@ -1,29 +1,35 @@
-# ALPHA
+# Alpha Project - FrontEnd
 
-This template should help get you started developing with Vue 3 in Vite.
+Sistema de gerenciamento de produtos, com backend em .NET Core e frontend em Vue 3, utilizando integração com banco de dados SQL Server.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🧱 Tecnologias Utilizadas
 
-## Customize configuration
+### Backend
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### Frontend
+- Vue 3 + Vite
+- Axios
+- TailwindCSS
+- Vue Router
 
-## Project Setup
+---
 
-```sh
-npm install
-```
+## ⚙️ Requisitos
 
-### Compile and Hot-Reload for Development
+- .NET SDK 7.0 ou superior
+- Node.js 18+
+- SQL Server
+- VS Code (opcional, mas recomendado)
 
-```sh
-npm run dev
-```
+---
 
-### Compile and Minify for Production
+## Como executar o projeto:
 
-```sh
-npm run build
-```
+1. npm install
+2. npm run dev
+
